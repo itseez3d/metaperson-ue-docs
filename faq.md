@@ -12,7 +12,7 @@ Currently the sample is Windows-only (as a development and target platforms). We
 
 ### Which version of UE are supported?
 
-Versions 5.0, 5.1, 5.2 of the Unreal Engine are supported.
+Versions 5.0, 5.1, 5.2, 5.3 of the Unreal Engine are supported.
 
 ### The "export " button is not accessible in the MetaPerson Creator. What should I do?
 
